@@ -1,0 +1,8 @@
+Marek Miśkiewicz
+
+Zadania do zrobienia na zaliczenie
+Program do rozwiązania na zajęciach - aktywność
+
+Python - język skryptowy - możliwość wykonywania pojedynczych poleceń w ramach pojedynczych shelli
+
+
