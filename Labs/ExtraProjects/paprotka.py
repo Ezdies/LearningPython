@@ -18,8 +18,8 @@ def paprotka(n):
         y.append(a[i][1][0] * x[-2] + a[i][1][1] * y[-1] + a[i][1][2])
 
     plt.figure(figsize=(6, 10))
-    plt.plot(x, y, marker=".", linewidth=0, markersize=3)
+    plt.plot(x, y, marker=".", linewidth=0, markersize=0.01)
     plt.show()
 
 if __name__ == "__main__":
-    paprotka(100000)
+    paprotka(10000000)
